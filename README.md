@@ -10,13 +10,14 @@ An end-to-end data analysis project exploring the second-hand car market, with t
 ---
 
 ## Project Structure
-📁 notebooks/
-├── 01_data_collection_template.ipynb   # Web scraping methodology (anonymised)
-├── 02_data_cleaning_eda.ipynb          # Data cleaning and exploratory analysis
-└── 03_modelling.ipynb                  # Regression modelling and depreciation estimates
-📄 cars_data.csv                        # Collected dataset
-📄 df_models.csv                        # Model-level reference data
 
+    📁 notebooks/
+    ├── 01_data_collection_template.ipynb   # Web scraping methodology (anonymised)
+    ├── 02_data_cleaning_eda.ipynb          # Data cleaning and exploratory analysis
+    └── 03_modelling.ipynb                  # Regression modelling and depreciation estimates
+
+    📄 cars_data.csv                        # Collected dataset
+    📄 df_models.csv                        # Model-level reference data
 ---
 
 ## Notebooks Overview
